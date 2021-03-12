@@ -1,0 +1,741 @@
+{
+  "title": "Mulan",
+  "year": "2020",
+  "summary": "A young Chinese maiden disguises herself as a male warrior in order to save her father.",
+  "director": "Niki Caro",
+  "writers": [
+    "Rick Jaffa",
+    "Amanda Silver"
+  ],
+  "stars": [
+    "Yifei Liu",
+    "Donnie Yen",
+    "Li Gong"
+  ],
+  "runtime": "1h 55min"
+}{
+  "title": "Tenet",
+  "year": "2020",
+  "summary": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+  "director": "Christopher Nolan",
+  "writers": [
+    "Christopher Nolan"
+  ],
+  "stars": [
+    "John David Washington",
+    "Robert Pattinson",
+    "Elizabeth Debicki"
+  ],
+  "runtime": "2h 30min"
+}{
+  "title": "Sem Tempo Para Morrer",
+  "year": "2020",
+  "summary": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+  "director": "Cary Joji Fukunaga",
+  "writers": [
+    "Neal Purvis",
+    "Robert Wade"
+  ],
+  "stars": [
+    "Ana de Armas",
+    "Daniel Craig",
+    "Léa Seydoux"
+  ],
+  "runtime": "2h 43min"
+}{
+  "title": "Karatê Kid: A Hora da Verdade",
+  "year": "1984",
+  "summary": "A martial arts master agrees to teach karate to a bullied teenager.",
+  "director": "John G. Avildsen",
+  "writers": [
+    "Robert Mark Kamen"
+  ],
+  "stars": [
+    "Ralph Macchio",
+    "Pat Morita",
+    "Elisabeth Shue"
+  ],
+  "runtime": "2h 6min"
+}{
+  "title": "Duna",
+  "year": "1984",
+  "summary": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.",
+  "director": "David Lynch",
+  "writers": [
+    "Frank Herbert",
+    "David Lynch"
+  ],
+  "stars": [
+    "Kyle MacLachlan",
+    "Virginia Madsen",
+    "Francesca Annis"
+  ],
+  "runtime": "2h 17min"
+}{
+  "title": "Os Novos Mutantes",
+  "year": "2020",
+  "summary": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+  "director": "Josh Boone",
+  "writers": [
+    "Josh Boone",
+    "Knate Lee"
+  ],
+  "stars": [
+    "Maisie Williams",
+    "Anya Taylor-Joy",
+    "Charlie Heaton"
+  ],
+  "runtime": "1h 34min"
+}{
+  "title": "The Batman",
+  "year": "2021",
+  "summary": "The plot is unknown.",
+  "director": "Matt Reeves",
+  "writers": [
+    "Peter Craig",
+    "Bill Finger"
+  ],
+  "stars": [
+    "Robert Pattinson",
+    "Paul Dano",
+    "Zoë Kravitz"
+  ],
+  "runtime": "Undefined"
+}{
+  "title": "#Saraitda",
+  "year": "2020",
+  "summary": "The rapid spread of an unknown infection has left an entire city in ungovernable chaos, but one survivor remains alive in isolation. It is his story.",
+  "director": "Il Cho",
+  "writers": [
+    "Il Cho",
+    "Matt Naylor"
+  ],
+  "stars": [
+    "Ah-In Yoo",
+    "Shin-Hye Park",
+    "Hyun-Wook Lee"
+  ],
+  "runtime": "1h 38min"
+}{
+  "title": "Pantera Negra",
+  "year": "2018",
+  "summary": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+  "director": "Ryan Coogler",
+  "writers": [
+    "Ryan Coogler",
+    "Joe Robert Cole"
+  ],
+  "stars": [
+    "Chadwick Boseman",
+    "Michael B. Jordan",
+    "Lupita Nyong'o"
+  ],
+  "runtime": "2h 14min"
+}{
+  "title": "Ava",
+  "year": "2020",
+  "summary": "Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival.",
+  "director": "Tate Taylor",
+  "writers": [
+    "Matthew Newton"
+  ],
+  "stars": [
+    "Jessica Chastain",
+    "John Malkovich",
+    "Common"
+  ],
+  "runtime": "1h 36min"
+}{
+  "title": "Karatê Kid 3: O Desafio Final",
+  "year": "1989",
+  "summary": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
+  "director": "John G. Avildsen",
+  "writers": [
+    "Robert Mark Kamen",
+    "Robert Mark Kamen"
+  ],
+  "stars": [
+    "Ralph Macchio",
+    "Pat Morita",
+    "Robyn Lively"
+  ],
+  "runtime": "1h 52min"
+}{
+  "title": "O Esquadrão Suicida",
+  "year": "2021",
+  "summary": "Plot is unknown.",
+  "director": "James Gunn",
+  "writers": [
+    "James Gunn",
+    "John Ostrander"
+  ],
+  "stars": [
+    "Margot Robbie",
+    "Taika Waititi",
+    "Idris Elba"
+  ],
+  "runtime": "Undefined"
+}{
+  "title": "Power",
+  "year": "2020",
+  "summary": "When a pill that gives its users unpredictable superpowers for five minutes hits the streets of New Orleans, a teenage dealer and a local cop must team with an ex-soldier to take down the group responsible for its creation.",
+  "director": "Directors: Henry Joost, Ariel Schulman",
+  "writers": [
+    "Mattson Tomlin"
+  ],
+  "stars": [
+    "Jamie Foxx",
+    "Joseph Gordon-Levitt",
+    "Dominique Fishback"
+  ],
+  "runtime": "1h 53min"
+}{
+  "title": "A Origem",
+  "year": "2010",
+  "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+  "director": "Christopher Nolan",
+  "writers": [
+    "Christopher Nolan"
+  ],
+  "stars": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Ellen Page"
+  ],
+  "runtime": "2h 28min"
+}{
+  "title": "The Owners",
+  "year": "2020",
+  "summary": "A group of friends think they find an easy score at an empty house with a safe full of cash. But when the owners, an elderly couple, come home early, the tables are suddenly turned.",
+  "director": "Julius Berg",
+  "writers": [
+    "Mathieu Gompel",
+    "Julius Berg"
+  ],
+  "stars": [
+    "Maisie Williams",
+    "Sylvester McCoy",
+    "Rita Tushingham"
+  ],
+  "runtime": "1h 32min"
+}{
+  "title": "Mulher-Maravilha 1984",
+  "year": "2020",
+  "summary": "Fast forward to the 1980s as Wonder Woman's next big screen adventure finds her facing two all-new foes: Max Lord and The Cheetah.",
+  "director": "Patty Jenkins",
+  "writers": [
+    "Geoff Johns",
+    "Patty Jenkins"
+  ],
+  "stars": [
+    "Pedro Pascal",
+    "Gal Gadot",
+    "Robin Wright"
+  ],
+  "runtime": "2h 31min"
+}{
+  "title": "Vingadores: Ultimato",
+  "year": "2019",
+  "summary": "After the devastating events of Vingadores: Guerra Infinita (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+  "director": "Directors: Anthony Russo, Joe Russo",
+  "writers": [
+    "Christopher Markus",
+    "Stephen McFeely"
+  ],
+  "stars": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Mark Ruffalo"
+  ],
+  "runtime": "3h 1min"
+}{
+  "title": "Batman: O Cavaleiro das Trevas",
+  "year": "2008",
+  "summary": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+  "director": "Christopher Nolan",
+  "writers": [
+    "Jonathan Nolan",
+    "Christopher Nolan"
+  ],
+  "stars": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "runtime": "2h 32min"
+}{
+  "title": "Aves de Rapina: Arlequina e sua Emancipação Fantabulosa",
+  "year": "2020",
+  "summary": "After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.",
+  "director": "Cathy Yan",
+  "writers": [
+    "Christina Hodson",
+    "Paul Dini"
+  ],
+  "stars": [
+    "Margot Robbie",
+    "Rosie Perez",
+    "Mary Elizabeth Winstead"
+  ],
+  "runtime": "1h 49min"
+}{
+  "title": "The Old Guard",
+  "year": "2020",
+  "summary": "A covert team of immortal mercenaries are suddenly exposed and must now fight to keep their identity a secret just as an unexpected new member is discovered.",
+  "director": "Gina Prince-Bythewood",
+  "writers": [
+    "Greg Rucka",
+    "Greg Rucka"
+  ],
+  "stars": [
+    "Charlize Theron",
+    "KiKi Layne",
+    "Matthias Schoenaerts"
+  ],
+  "runtime": "2h 5min"
+}{
+  "title": "Invasão Zumbi 2",
+  "year": "2020",
+  "summary": "Sequel to the 2016 South Korean zombie film Invasão Zumbi (2016).",
+  "director": "Sang-ho Yeon",
+  "writers": [
+    "Sang-ho Yeon",
+    "Ryu Yong-jae"
+  ],
+  "stars": [
+    "Dong-Won Gang",
+    "Jung-hyun Lee",
+    "Re Lee"
+  ],
+  "runtime": "1h 56min"
+}{
+  "title": "Karatê Kid 2: A Hora da Verdade Continua",
+  "year": "1986",
+  "summary": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
+  "director": "John G. Avildsen",
+  "writers": [
+    "Robert Mark Kamen",
+    "Robert Mark Kamen"
+  ],
+  "stars": [
+    "Pat Morita",
+    "Ralph Macchio",
+    "Pat E. Johnson"
+  ],
+  "runtime": "1h 53min"
+}{
+  "title": "Fúria Incontrolável",
+  "year": "2020",
+  "summary": "After a confrontation with an unstable man at an intersection, a woman becomes the target of his rage.",
+  "director": "Derrick Borte",
+  "writers": [
+    "Carl Ellsworth"
+  ],
+  "stars": [
+    "Russell Crowe",
+    "Jimmi Simpson",
+    "Caren Pistorius"
+  ],
+  "runtime": "1h 30min"
+}{
+  "title": "Blade Runner 2049",
+  "year": "2017",
+  "summary": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+  "director": "Denis Villeneuve",
+  "writers": [
+    "Hampton Fancher",
+    "Michael Green"
+  ],
+  "stars": [
+    "Harrison Ford",
+    "Ryan Gosling",
+    "Ana de Armas"
+  ],
+  "runtime": "2h 44min"
+}{
+  "title": "Freaks: Um de Nós",
+  "year": "2020",
+  "summary": "Tipped by a mysterious tramp, a meek fry cook discovers she has superpowers -- and uncovers an unsavory, vast conspiracy.",
+  "director": "Felix Binder",
+  "writers": [
+    "Marc O. Seng"
+  ],
+  "stars": [
+    "Cornelia Gröschel",
+    "Tim Oliver Schultz",
+    "Wotan Wilke Möhring"
+  ],
+  "runtime": "1h 32min"
+}{
+  "title": "Magnatas do Crime",
+  "year": "2019",
+  "summary": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+  "director": "Guy Ritchie",
+  "writers": [
+    "Guy Ritchie",
+    "Ivan Atkinson"
+  ],
+  "stars": [
+    "Matthew McConaughey",
+    "Charlie Hunnam",
+    "Michelle Dockery"
+  ],
+  "runtime": "1h 53min"
+}{
+  "title": "Ford vs Ferrari",
+  "year": "2019",
+  "summary": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+  "director": "James Mangold",
+  "writers": [
+    "Jez Butterworth",
+    "John-Henry Butterworth"
+  ],
+  "stars": [
+    "Matt Damon",
+    "Christian Bale",
+    "Jon Bernthal"
+  ],
+  "runtime": "2h 32min"
+}{
+  "title": "Crime sem Saída",
+  "year": "2019",
+  "summary": "An embattled NYPD detective is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy.",
+  "director": "Brian Kirk",
+  "writers": [
+    "Adam Mervis",
+    "Matthew Michael Carnahan"
+  ],
+  "stars": [
+    "Chadwick Boseman",
+    "Sienna Miller",
+    "J.K. Simmons"
+  ],
+  "runtime": "1h 39min"
+}{
+  "title": "Viúva Negra",
+  "year": "2020",
+  "summary": "A film about Natasha Romanoff in her quests between the films Civil War and Infinity War.",
+  "director": "Cate Shortland",
+  "writers": [
+    "Jac Schaeffer",
+    "Ned Benson"
+  ],
+  "stars": [
+    "Scarlett Johansson",
+    "Florence Pugh",
+    "Robert Downey Jr."
+  ],
+  "runtime": "Undefined"
+}{
+  "title": "007: Cassino Royale",
+  "year": "2006",
+  "summary": "After earning 00 status and a licence to kill, Secret Agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, Montenegro.",
+  "director": "Martin Campbell",
+  "writers": [
+    "Neal Purvis",
+    "Robert Wade"
+  ],
+  "stars": [
+    "Daniel Craig",
+    "Eva Green",
+    "Judi Dench"
+  ],
+  "runtime": "2h 24min"
+}{
+  "title": "Greyhound: Na Mira do Inimigo",
+  "year": "2020",
+  "summary": "Several months after the U.S. entry into World War II, an inexperienced U.S. Navy commander must lead an Allied convoy being stalked by a German submarine wolf pack.",
+  "director": "Aaron Schneider",
+  "writers": [
+    "Tom Hanks",
+    "C.S. Forester"
+  ],
+  "stars": [
+    "Tom Hanks",
+    "Elisabeth Shue",
+    "Stephen Graham"
+  ],
+  "runtime": "1h 31min"
+}{
+  "title": "Rogue",
+  "year": "2020",
+  "summary": "O'Hara is a mercenary leading a squad of soldiers on their mission to rescue hostages in remote part of Africa. Unfortunately the mission goes wrong and the team are stranded, forced to survive against the local rebels.",
+  "director": "M.J. Bassett (as MJ Bassett)",
+  "writers": [
+    "Isabel Bassett",
+    "M.J. Bassett"
+  ],
+  "stars": [
+    "Megan Fox",
+    "Philip Winchester",
+    "Greg Kriek"
+  ],
+  "runtime": "1h 45min"
+}{
+  "title": "Batman: O Cavaleiro das Trevas Ressurge",
+  "year": "2012",
+  "summary": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+  "director": "Christopher Nolan",
+  "writers": [
+    "Jonathan Nolan",
+    "Christopher Nolan"
+  ],
+  "stars": [
+    "Christian Bale",
+    "Tom Hardy",
+    "Anne Hathaway"
+  ],
+  "runtime": "2h 44min"
+}{
+  "title": "Dunkirk",
+  "year": "2017",
+  "summary": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+  "director": "Christopher Nolan",
+  "writers": [
+    "Christopher Nolan"
+  ],
+  "stars": [
+    "Fionn Whitehead",
+    "Barry Keoghan",
+    "Mark Rylance"
+  ],
+  "runtime": "1h 46min"
+}{
+  "title": "Vidas à Deriva",
+  "year": "2018",
+  "summary": "A true story of survival, as a young couple's chance encounter leads them first to love, and then on the adventure of a lifetime as they face one of the most catastrophic hurricanes in recorded history.",
+  "director": "Baltasar Kormákur",
+  "writers": [
+    "Aaron Kandell",
+    "Jordan Kandell"
+  ],
+  "stars": [
+    "Shailene Woodley",
+    "Sam Claflin",
+    "Jeffrey Thomas"
+  ],
+  "runtime": "1h 36min"
+}{
+  "title": "A Caverna",
+  "year": "2017",
+  "summary": "A professor enters a cave and goes missing. Some of his students come looking for him and get trapped in the cave as well.",
+  "director": "Directors: Mark Dennis, Ben Foster",
+  "writers": [
+    "Mark Dennis"
+  ],
+  "stars": [
+    "Reiley McClendon",
+    "Cassidy Gifford",
+    "Brianne Howey"
+  ],
+  "runtime": "1h 27min"
+}{
+  "title": "Venom",
+  "year": "2018",
+  "summary": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+  "director": "Ruben Fleischer",
+  "writers": [
+    "Jeff Pinkner",
+    "Scott Rosenberg"
+  ],
+  "stars": [
+    "Tom Hardy",
+    "Michelle Williams",
+    "Riz Ahmed"
+  ],
+  "runtime": "1h 52min"
+}{
+  "title": "007 - A Serviço Secreto de Sua Majestade",
+  "year": "1969",
+  "summary": "James Bond woos a mob boss' daughter and goes undercover to uncover the true reason for Ernst Stavro Blofeld's allergy research in the Swiss Alps involving beautiful women from around the world.",
+  "director": "Peter R. Hunt (as Peter Hunt)",
+  "writers": [
+    "Simon Raven",
+    "Richard Maibaum"
+  ],
+  "stars": [
+    "George Lazenby",
+    "Diana Rigg",
+    "Telly Savalas"
+  ],
+  "runtime": "2h 22min"
+}{
+  "title": "Missão Pijamas",
+  "year": "2020",
+  "summary": "When two siblings discover their seemingly normal mom is a former thief in witness protection who has been forced to pull one last job, they team up to rescue her over the course of an action-packed night.",
+  "director": "Trish Sie",
+  "writers": [
+    "Sarah Rothschild",
+    "Sarah Rothschild"
+  ],
+  "stars": [
+    "Sadie Stanley",
+    "Maxwell Simkins",
+    "Cree Cicchino"
+  ],
+  "runtime": "1h 40min"
+}{
+  "title": "Sadak 2",
+  "year": "2020",
+  "summary": "The film picks up where Sadak left off, revolving around the journey with a young girl who becomes an important character in the life of the protagonist, and the reason for him to stay alive.",
+  "director": "Mahesh Bhatt",
+  "writers": [
+    "Pushpdeep Bhardwaj",
+    "Mahesh Bhatt"
+  ],
+  "stars": [
+    "Priyanka Bose",
+    "Alia Bhatt",
+    "Sanjay Dutt"
+  ],
+  "runtime": "2h 13min"
+}{
+  "title": "Jumanji - Próxima Fase",
+  "year": "2019",
+  "summary": "In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",
+  "director": "Jake Kasdan",
+  "writers": [
+    "Jake Kasdan",
+    "Jeff Pinkner"
+  ],
+  "stars": [
+    "Dwayne Johnson",
+    "Jack Black",
+    "Kevin Hart"
+  ],
+  "runtime": "2h 3min"
+}{
+  "title": "Hard Kill",
+  "year": "2020",
+  "summary": "The work of billionaire tech CEO Donovan Chalmers (Willis) is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.",
+  "director": "Matt Eskandari",
+  "writers": [
+    "Joe Russo",
+    "Chris LaMont"
+  ],
+  "stars": [
+    "Jesse Metcalfe",
+    "Bruce Willis",
+    "Lala Kent"
+  ],
+  "runtime": "1h 38min"
+}{
+  "title": "Greenland",
+  "year": "2020",
+  "summary": "A family struggles for survival in the face of a cataclysmic natural disaster.",
+  "director": "Ric Roman Waugh",
+  "writers": [
+    "Chris Sparling"
+  ],
+  "stars": [
+    "Gerard Butler",
+    "Morena Baccarin",
+    "Roger Dale Floyd"
+  ],
+  "runtime": "1h 59min"
+}{
+  "title": "Matrix",
+  "year": "1999",
+  "summary": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+  "director": "Directors: Lana Wachowski (as The Wachowski Brothers), Lilly Wachowski (as The Wachowski Brothers)",
+  "writers": [
+    "Lilly Wachowski",
+    "Lana Wachowski"
+  ],
+  "stars": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "runtime": "2h 16min"
+}{
+  "title": "Jurassic Park: O Parque dos Dinossauros",
+  "year": "1993",
+  "summary": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+  "director": "Steven Spielberg",
+  "writers": [
+    "Michael Crichton",
+    "Michael Crichton"
+  ],
+  "stars": [
+    "Sam Neill",
+    "Laura Dern",
+    "Jeff Goldblum"
+  ],
+  "runtime": "2h 7min"
+}{
+  "title": "Invencível",
+  "year": "2014",
+  "summary": "After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing 47 days in a raft with two fellow crewmen before he's caught by the Japanese navy and sent to a prisoner-of-war camp.",
+  "director": "Angelina Jolie",
+  "writers": [
+    "Joel Coen",
+    "Ethan Coen"
+  ],
+  "stars": [
+    "Jack O'Connell",
+    "Miyavi",
+    "Domhnall Gleeson"
+  ],
+  "runtime": "2h 17min"
+}{
+  "title": "Star Wars: A Ascensão Skywalker",
+  "year": "2019",
+  "summary": "The surviving members of the resistance face the First Order once again, and the legendary conflict between the Jedi and the Sith reaches its peak bringing the Skywalker saga to its end.",
+  "director": "J.J. Abrams",
+  "writers": [
+    "Chris Terrio",
+    "J.J. Abrams"
+  ],
+  "stars": [
+    "Daisy Ridley",
+    "John Boyega",
+    "Oscar Isaac"
+  ],
+  "runtime": "2h 21min"
+}{
+  "title": "A Ilha da Fantasia",
+  "year": "2020",
+  "summary": "When the owner and operator of a luxurious island invites a collection of guests to live out their most elaborate fantasies in relative seclusion, chaos quickly descends.",
+  "director": "Jeff Wadlow",
+  "writers": [
+    "Jillian Jacobs",
+    "Christopher Roach"
+  ],
+  "stars": [
+    "Michael Peña",
+    "Maggie Q",
+    "Lucy Hale"
+  ],
+  "runtime": "1h 49min"
+}{
+  "title": "007 - Quantum of Solace",
+  "year": "2008",
+  "summary": "James Bond descends into mystery as he tries to stop a mysterious organisation from eliminating a country's most valuable resource.",
+  "director": "Marc Forster",
+  "writers": [
+    "Paul Haggis",
+    "Neal Purvis"
+  ],
+  "stars": [
+    "Daniel Craig",
+    "Olga Kurylenko",
+    "Mathieu Amalric"
+  ],
+  "runtime": "1h 46min"
+}{
+  "title": "Um Espião Animal",
+  "year": "2019",
+  "summary": "When the world's best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.",
+  "director": "Directors: Nick Bruno, Troy Quane",
+  "writers": [
+    "Lucas Martell",
+    "Cindy Davis"
+  ],
+  "stars": [
+    "Rachel Brosnahan",
+    "Jarrett Bruno",
+    "Claire Crosby"
+  ],
+  "runtime": "1h 42min"
+}

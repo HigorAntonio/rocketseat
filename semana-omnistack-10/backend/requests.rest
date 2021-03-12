@@ -1,0 +1,17 @@
+POST http://localhost:3333/devs
+Content-Type: application/json
+
+{
+  "github_username": "HigorAntonio",
+  "techs": "ReactJS, React Native, Node.js",
+  "latitude": "-21.3009802",
+  "longitude": "-42.8540394"
+}
+
+###
+
+GET http://localhost:3333/devs
+
+###
+
+GET http://localhost:3333/search?latitude=-21.3009802&longitude=-42.8540394&techs=ReactJS,%20VueJS
